@@ -51,7 +51,7 @@ career as a software developer.
 ![MySQL](https://img.shields.io/badge/MySQL-14161C?style=flat-square&logo=mysql&logoColor=B18CFF)
 ![Git](https://img.shields.io/badge/Git-14161C?style=flat-square&logo=git&logoColor=B18CFF)
 ![GitHub](https://img.shields.io/badge/GitHub-14161C?style=flat-square&logo=github&logoColor=B18CFF)
-![VS Code](https://img.shields.io/badge/VS_Code-14161C?style=flat-square&logo=visualstudiocode&logoColor=7EE0B5)
+
 
 **AI Tools**
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-14161C?style=flat-square&logo=openai&logoColor=7EE0B5)
