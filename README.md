@@ -65,8 +65,8 @@ career as a software developer.
 
 ![Davinci Resolve](https://img.shields.io/badge/Video_Editing-14161C?style=flat-square&logo=adobepremierepro&logoColor=F2C572)
 ![Photoshop](https://img.shields.io/badge/Image_Editing-14161C?style=flat-square&logo=adobephotoshop&logoColor=F2C572)
-![Canva]
-![Premiere Pro]
+![Canva](https://img.shields.io/badge/Image_Editing-14161C?style=flat-square&logo=adobephotoshop&logoColor=F2C572)
+![Premiere Pro](https://img.shields.io/badge/Image_Editing-14161C?style=flat-square&logo=adobephotoshop&logoColor=F2C572)
 ---
 
 **MY Projects**
