@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm John Samuel J 👋</h1>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a318988a-d7cc-420a-be2a-4fdbdc18e329" /><img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d0edff7a-2085-4f86-84aa-180183a39f96" /><h1 align="center">Hi, I'm John Samuel J 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=B18CFF&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student;Software+Developer+in+the+making;I+turn+ideas+into+working+code;Open+to+Software+Developer+roles" alt="Typing SVG" />
@@ -51,7 +51,19 @@ career as a software developer.
 ![MySQL](https://img.shields.io/badge/MySQL-14161C?style=flat-square&logo=mysql&logoColor=B18CFF)
 ![Git](https://img.shields.io/badge/Git-14161C?style=flat-square&logo=git&logoColor=B18CFF)
 ![GitHub](https://img.shields.io/badge/GitHub-14161C?style=flat-square&logo=github&logoColor=B18CFF)
-![VS Code] (https://img.shields.io/badge/VS Code-14161C?style=flat-square&logo=vscode&logoColor=B18CFF)
+![VS Code](https://img.shields.io/badge/VS_Code-14161C?style=flat-square&logo=visualstudiocode&logoColor=7EE0B5)
+
+**AI Tools**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-14161C?style=flat-square&logo=openai&logoColor=7EE0B5)
+![Cursor](https://img.shields.io/badge/Cursor-14161C?style=flat-square&logo=cursor&logoColor=7EE0B5)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-14161C?style=flat-square&logo=githubcopilot&logoColor=7EE0B5)
+![Gemini](https://img.shields.io/badge/Gemini-14161C?style=flat-square&logo=googlegemini&logoColor=7EE0B5)
+![Claude](https://img.shields.io/badge/Claude-14161C?style=flat-square&logo=claude&logoColor=7EE0B5)
+
+**Video & Image Editing**
+![Video Editing](https://img.shields.io/badge/Video_Editing-14161C?style=flat-square&logo=adobepremierepro&logoColor=F2C572)
+![Image Editing](https://img.shields.io/badge/Image_Editing-14161C?style=flat-square&logo=adobephotoshop&logoColor=F2C572)
+
 ---
 
 **MY Projects**
