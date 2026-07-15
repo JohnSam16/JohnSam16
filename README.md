@@ -12,7 +12,7 @@
 
 ---
 
-### `$ whoami`
+**Profile**
 
 ```
 
@@ -26,8 +26,7 @@ career as a software developer.
 ```
 
 ---
-
-### `$ cat skills.json`
+**Skills**
 
 **Languages**
 
@@ -55,7 +54,7 @@ career as a software developer.
 
 ---
 
-### `$ ls projects/`
+**MY Projects**
 
 <table>
 <tr>
@@ -105,7 +104,7 @@ layout and a smoother ordering experience.
 
 ---
 
-### `$ cat certifications.md`
+**Certificates**
 
 - 🐍 Python Programming — Infosys Springboard
 - 💼 Entrepreneurship Development Programme — EDII-TN
