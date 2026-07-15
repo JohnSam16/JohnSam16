@@ -54,6 +54,7 @@ career as a software developer.
 ![VS Code](https://img.shields.io/badge/VS_Code-14161C?style=flat-square&logo=visualstudiocode&logoColor=7EE0B5)
 
 **AI Tools**
+
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-14161C?style=flat-square&logo=openai&logoColor=7EE0B5)
 ![Cursor](https://img.shields.io/badge/Cursor-14161C?style=flat-square&logo=cursor&logoColor=7EE0B5)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-14161C?style=flat-square&logo=githubcopilot&logoColor=7EE0B5)
@@ -61,6 +62,7 @@ career as a software developer.
 ![Claude](https://img.shields.io/badge/Claude-14161C?style=flat-square&logo=claude&logoColor=7EE0B5)
 
 **Video & Image Editing**
+
 ![Video Editing](https://img.shields.io/badge/Video_Editing-14161C?style=flat-square&logo=adobepremierepro&logoColor=F2C572)
 ![Image Editing](https://img.shields.io/badge/Image_Editing-14161C?style=flat-square&logo=adobephotoshop&logoColor=F2C572)
 
