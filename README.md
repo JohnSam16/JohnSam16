@@ -51,7 +51,7 @@ career as a software developer.
 ![MySQL](https://img.shields.io/badge/MySQL-14161C?style=flat-square&logo=mysql&logoColor=B18CFF)
 ![Git](https://img.shields.io/badge/Git-14161C?style=flat-square&logo=git&logoColor=B18CFF)
 ![GitHub](https://img.shields.io/badge/GitHub-14161C?style=flat-square&logo=github&logoColor=B18CFF)
-
+![VS Code] (https://img.shields.io/badge/VS Code-14161C?style=flat-square&logo=vscode&logoColor=B18CFF)
 ---
 
 **MY Projects**
@@ -91,7 +91,7 @@ layout and a smoother ordering experience.
 
 ---
 
-### `$ ./stats.sh`
+**Stats**
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JohnSam16&show_icons=true&theme=dark&bg_color=1B1E27&title_color=B18CFF&icon_color=7EE0B5&text_color=E4E6EB&border_color=2A2E3A&hide_border=false" />
@@ -112,7 +112,7 @@ layout and a smoother ordering experience.
 
 ---
 
-### `$ echo $STATUS`
+**STATUS**
 
 ```
 > open_to      : Software Developer roles
