@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a318988a-d7cc-420a-be2a-4fdbdc18e329" /><img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d0edff7a-2085-4f86-84aa-180183a39f96" /><h1 align="center">Hi, I'm John Samuel J 👋</h1>
+<h1 align="center">Hi, I'm John Samuel J 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=B18CFF&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student;Software+Developer+in+the+making;I+turn+ideas+into+working+code;Open+to+Software+Developer+roles" alt="Typing SVG" />
