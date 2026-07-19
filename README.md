@@ -2,7 +2,11 @@
 <!--  ANIMATED HEADER  -->
 <!-- ============================================================ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1E27,50:2A1F3D,100:1B1E27&height=260&section=header&text=Hey,%20I'm%20John%20Samuel%20J&fontSize=48&fontAlignY=38&fontColor=B18CFF&animation=fadeIn&desc=Software%20Developer%20%7C%20Final-Year%20CSE%20Student&descAlignY=58&descSize=18&descColor=7EE0B5" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,
+25:6A11CB,
+50:4A00E0,
+75:2E1065
+100:1B1E27 &height=260&section=header&text=Hey,%20I'm%20John%20Samuel%20J&fontSize=48&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=Software%20Developer%20%7C%20Final-Year%20CSE%20Student&descAlignY=58&descSize=18&descColor=E4E6EB" alt="Header" />
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -20,9 +24,6 @@
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-1B1E27?style=for-the-badge&logo=linkedin&logoColor=6EA8FE" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/john_samuel_1616?igsh=MTh1OG4wc2plNzVqaQ==">
-    <img src="https://img.shields.io/badge/Instagram-1B1E27?style=for-the-badge&logo=Instagram&logoColor=6EA8FE" alt="Instagram"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Tirunelveli-1B1E27?style=for-the-badge&logo=googlemaps&logoColor=F2C572" alt="Location"/>
 </div>
@@ -52,7 +53,7 @@ I'm a final-year **B.E. Computer Science Engineering** student with a strong fou
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7EE0B5,100:B18CFF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--  TECH STACK  -->
@@ -80,7 +81,7 @@ I'm a final-year **B.E. Computer Science Engineering** student with a strong fou
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B18CFF,100:7EE0B5&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F953C6,100:B91D73&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--  FEATURED WORK  -->
@@ -133,7 +134,7 @@ responsive layout and smoother ordering.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7EE0B5,100:B18CFF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD200,100:F7971E&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--  GITHUB STATS  -->
@@ -164,7 +165,7 @@ responsive layout and smoother ordering.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B18CFF,100:7EE0B5&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF416C,100:FF4B2B&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--  CERTIFICATIONS  -->
@@ -182,7 +183,7 @@ responsive layout and smoother ordering.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7EE0B5,100:B18CFF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00D9F5&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--  FOOTER  -->
@@ -196,4 +197,4 @@ responsive layout and smoother ordering.
   <br><br>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1E27,50:2A1F3D,100:1B1E27&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1E27,50:4A00E0,100:8E2DE2&height=150&section=footer" width="100%"/>
