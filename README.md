@@ -38,24 +38,25 @@
 <!-- ============================================================ -->
 
 
-👨‍💻 About Me
+### 👨‍💻 About Me
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/HackerHellHound/HackerHellHound/master/gifs/dev.gif" alt="coding gif" />
-I'm a final-year B.E. Computer Science Engineering student with a strong foundation in programming, web development, and problem-solving.
+
+<p align ="right">I'm a final-year **B.E. Computer Science Engineering** student  
+  
+  with a strong foundation in programming, web development, and problem-solving.
 
 🔭 I like turning ideas into real, working applications — from e-commerce platforms to full UI/UX case studies.
 
-🌱 Currently sharpening my skills in full-stack development and software engineering practices.
+🌱 Currently sharpening my skills in **full-stack development** and **software engineering practices**.
 
-🎯 Looking to start my career as a Software Developer.
+🎯 Looking to start my career as a **Software Developer**.
 
 ⚡ Fun fact: I enjoy designing clean UIs almost as much as writing clean code.
-
+</p>
 <br clear="right"/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%"/>
-<!--
-
-
 <!-- ============================================================ -->
 <!--  TECH STACK  -->
 <!-- ============================================================ -->
