@@ -21,6 +21,9 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-1B1E27?style=for-the-badge&logo=linkedin&logoColor=6EA8FE" alt="LinkedIn"/>
   </a>
+  <a href="https://www.instagram.com/john_samuel_1616?igsh=MTh1OG4wc2plNzVqaQ==">
+    <img src="https://img.shields.io/badge/Instagram-1B1E27?style=for-the-badge&logo=Instagram&logoColor=6EA8FE" alt="Instagram"/>
+  </a>
   <img src="https://img.shields.io/badge/Location-Tirunelveli-1B1E27?style=for-the-badge&logo=googlemaps&logoColor=F2C572" alt="Location"/>
 </div>
 
