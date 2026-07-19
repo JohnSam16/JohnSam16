@@ -63,7 +63,7 @@ career as a software developer.
 
 **Video & Image Editing**
 
-![Davinci Resolve]
+![Davinci Resolve](https://img.shields.io/badge/Claude-14161C?style=flat-square&logo=claude&logoColor=7EE0B5)
 
 ---
 
