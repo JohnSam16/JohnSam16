@@ -2,7 +2,7 @@
 <!--  ANIMATED HEADER  -->
 <!-- ============================================================ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:1B1E27 &height=260&section=header&text=Hey,%20I'm%20John%20Samuel%20J&fontSize=48&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=Software%20Developer%20%7C%20Final-Year%20CSE%20Student&descAlignY=58&descSize=18&descColor=E4E6EB" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:1B1E27&height=260&section=header&text=Hey,%20I'm%20John%20Samuel%20J&fontSize=48&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=Software%20Developer%20%7C%20Final-Year%20CSE%20Student&descAlignY=58&descSize=18&descColor=E4E6EB" alt="Header" />
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -21,8 +21,12 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-1B1E27?style=for-the-badge&logo=linkedin&logoColor=6EA8FE" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Tirunelveli-1B1E27?style=for-the-badge&logo=googlemaps&logoColor=F2C572" alt="Location"/>
-</div>
+  <a href="https://www.instagram.com/john_samuel_1616?igsh=MTh1OG4wc2plNzVqaQ==">
+    <img src="https://img.shields.io/badge/Instagram-1B1E27?style=for-the-badge&logo=Instagram&logoColor=6EA8FE" alt="LinkedIn"/>
+  </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/Location-1B1E27?style=for-the-badge&logo=Location&logoColor=6EA8FE" alt="Tirunelveli , Tamilnadu"/>
+  </a>
 
 <br>
 
