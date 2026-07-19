@@ -18,14 +18,14 @@
   <a href="mailto:johnsamuel1636@gmail.com">
     <img src="https://img.shields.io/badge/Email-1B1E27?style=for-the-badge&logo=gmail&logoColor=7EE0B5" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-1B1E27?style=for-the-badge&logo=linkedin&logoColor=6EA8FE" alt="LinkedIn"/>
+  <a href="www.linkedin.com/in/john-samuel-7ba963308">
+  <img src="https://img.shields.io/badge/-LinkedIn-1B1E27?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/john_samuel_1616?igsh=MTh1OG4wc2plNzVqaQ==">
-    <img src="https://img.shields.io/badge/Instagram-1B1E27?style=for-the-badge&logo=Instagram&logoColor=6EA8FE" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Instagram-1B1E27?style=for-the-badge&logo=Instagram&logoColor=6EA8FE" alt="Instagram"/>
   </a>
    <a href="">
-    <img src="https://img.shields.io/badge/Location-1B1E27?style=for-the-badge&logo=Location&logoColor=6EA8FE" alt="Tirunelveli , Tamilnadu"/>
+    <img src="https://img.shields.io/badge/Tirunelveli , Tamilnadu-1B1E27?style=for-the-badge&logo=GoogleMaps&logoColor=6EA8FE" alt="Google Maps"/>
   </a>
 
 <br>
@@ -37,23 +37,24 @@
 <!--  ABOUT ME  -->
 <!-- ============================================================ -->
 
-### 👨‍💻 About Me
+
+👨‍💻 About Me
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/HackerHellHound/HackerHellHound/master/gifs/dev.gif" alt="coding gif" />
-
-I'm a final-year **B.E. Computer Science Engineering** student with a strong foundation in programming, web development, and problem-solving.
+I'm a final-year B.E. Computer Science Engineering student with a strong foundation in programming, web development, and problem-solving.
 
 🔭 I like turning ideas into real, working applications — from e-commerce platforms to full UI/UX case studies.
 
-🌱 Currently sharpening my skills in **full-stack development** and **software engineering practices**.
+🌱 Currently sharpening my skills in full-stack development and software engineering practices.
 
-🎯 Looking to start my career as a **Software Developer**.
+🎯 Looking to start my career as a Software Developer.
 
 ⚡ Fun fact: I enjoy designing clean UIs almost as much as writing clean code.
 
 <br clear="right"/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%"/>
+<!--
+
 
 <!-- ============================================================ -->
 <!--  TECH STACK  -->
