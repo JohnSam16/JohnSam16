@@ -64,6 +64,8 @@ career as a software developer.
 **Video & Image Editing**
 
 ![Davinci Resolve](https://img.shields.io/badge/DavinciResolve-14161C?style=flat-square&logo=davinciresolve&logoColor=7EE0B5)
+![Adobe Premiere Pro](https://img.shields.io/badge/AdobePremierePro-14161C?style=flat-square&logo=adobepremierepro&logoColor=7EE0B5)
+![Adobe Photoshop](https://img.shields.io/badge/AdobePhotoshop-14161C?style=flat-square&logo=adobephotoshop&logoColor=7EE0B5)
 
 ---
 
